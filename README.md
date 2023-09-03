@@ -1,16 +1,14 @@
-### Hi there 👋
+# Daljeet Singh
+**`Student at UAT | Video Game Developer`**
 
-<!--
-**Dalmontron05/Dalmontron05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://i.imgur.com/QktoRPO.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+      <a href="https://github.com/Dalmontron05">
+         <img alt="github" title="aren't you already on my github?" src="https://custom-icon-badges.demolab.com/badge/Github-black.svg?logo=mark-github&style=for-the-badge"/></a> 
+      <a href="https://www.youtube.com/@dalmontron">
+         <img alt="youtube" title="watch my shit videos" src="https://custom-icon-badges.demolab.com/badge/Youtube-red.svg?logo=youtube&style=for-the-badge"/></a> 
+      <a href="https://www.instagram.com/dalmontron">
+         <img alt="instagram" title="at least it's not twitter" src="https://custom-icon-badges.demolab.com/badge/Instagram-purple.svg?logo=instagram&style=for-the-badge"/></a>
+   </p>
