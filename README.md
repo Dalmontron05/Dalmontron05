@@ -22,10 +22,8 @@ The name's Daljeet, but I go online by 'Dalmontron.' Currently I'm in my 3rd sem
         <img alt="youtube" title="watch my shit videos" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
     </a>
 </p>
-<p align="left">
-    <img alt="business email" title="my business email" src="https://img.shields.io/badge/Business_Email-mhqq43oep%40mozmail.com-black?style=flat-square&logo=gmail&logoColor=white&labelColor=blue
-    "/>
-</p>
+
+![Static Badge](https://img.shields.io/badge/Business_Email-mhqq43oep%40mozmail.com-black?style=flat-square&logo=gmail&logoColor=white&labelColor=blue)
 
 
 <!-- can't let go of these images just yet, but can't really use em rn either -->
